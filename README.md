@@ -11,6 +11,9 @@ Description: The effects of music are many, but this will focus on the psycholog
 Homepage: Contains the title and description of the webpage, it also contains the link for the other pages in order.
 <br>
 <br>
+
+**Please list actual titles of the planned webpages -- Mam Mendoza**
+
 Page 1: Contains the properties of music and how to define and distinguish and differenciate them, it also contains a link for the next page and home page
 <br>
 <br>
@@ -23,4 +26,6 @@ Page 3: Emotional effects contain a deeper view into the psychological happening
 Page 4: Focuses on how music makes people recognize a brand, name, memory associated with it, contains link for the previous page and the home page 
 <br>
 <br>
+
+**the wireframe is not consistent in terms of which webpage to develop...based on the homepage you will work on memories but the webpage will be on Effect --Mam Mendoza**
 Wireframe: https://www.canva.com/design/DAFMleXJ2tM/KEWeZDKYASWHQs36Amg7lw/edit?utm_content=DAFMleXJ2tM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
